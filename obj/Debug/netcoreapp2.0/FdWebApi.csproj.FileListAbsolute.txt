@@ -1,0 +1,10 @@
+/Users/kvskiran/Desktop/kiran/Apps/c#/fd/Fd/obj/Debug/netcoreapp2.0/FdWebApi.csproj.CoreCompileInputs.cache
+/Users/kvskiran/Desktop/kiran/Apps/c#/fd/Fd/obj/Debug/netcoreapp2.0/FdWebApi.AssemblyInfoInputs.cache
+/Users/kvskiran/Desktop/kiran/Apps/c#/fd/Fd/obj/Debug/netcoreapp2.0/FdWebApi.AssemblyInfo.cs
+/Users/kvskiran/Desktop/kiran/Apps/c#/fd/Fd/bin/Debug/netcoreapp2.0/FdWebApi.deps.json
+/Users/kvskiran/Desktop/kiran/Apps/c#/fd/Fd/bin/Debug/netcoreapp2.0/FdWebApi.runtimeconfig.json
+/Users/kvskiran/Desktop/kiran/Apps/c#/fd/Fd/bin/Debug/netcoreapp2.0/FdWebApi.runtimeconfig.dev.json
+/Users/kvskiran/Desktop/kiran/Apps/c#/fd/Fd/bin/Debug/netcoreapp2.0/FdWebApi.dll
+/Users/kvskiran/Desktop/kiran/Apps/c#/fd/Fd/bin/Debug/netcoreapp2.0/FdWebApi.pdb
+/Users/kvskiran/Desktop/kiran/Apps/c#/fd/Fd/obj/Debug/netcoreapp2.0/FdWebApi.dll
+/Users/kvskiran/Desktop/kiran/Apps/c#/fd/Fd/obj/Debug/netcoreapp2.0/FdWebApi.pdb
